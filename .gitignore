@@ -1,0 +1,14 @@
+venv/
+
+bin/
+
+logs/
+
+*.db
+*.geany
+*.py
+migrations/
+
+__pycache__/
+
+
